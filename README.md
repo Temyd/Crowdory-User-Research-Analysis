@@ -28,7 +28,8 @@ We then created a dashboard showing important details that we got from our resea
 # Findings 🔍
 Our research showed that out of 31 participant 23 have a knowledge about crypto ![knowledge about crypto](https://user-images.githubusercontent.com/105246702/176970279-fd2cf853-d1f9-4e64-aed9-05a17fb3ba55.png) out of which only 4 participants have crowdfunded before and only 6 has donated before ![donate and crowd](https://user-images.githubusercontent.com/105246702/176970383-83ee27eb-1f22-4e29-9725-328d5a45832f.png)
 
-we also saw got an insighnt of platfoms used by our participants to donate and crowdfund  which will be useful for our competiot analysis
-![platfroms](https://user-images.gitrhubusercontent.com/105246702/176970517-4ef5db4c-e0fd-4cce-aee8-fd3fe580e92b.png)
+we also saw got an insighnt of platfoms used by our participants to donate and crowdfund  which will be useful for our competior analysis
+![platfroms](https://user-images.githubusercontent.com/105246702/176970938-3da272ef-80ae-44eb-9964-8834d385da3c.png)
+
 
 # Thanks for reading our analysis we are still in progres and hope to give an update soon 👍
